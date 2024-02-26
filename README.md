@@ -13,6 +13,7 @@ This project utilizes historical sales data for Rossman stores to predict future
 - **Exploratory Data Anylysis:** Matplotlib and Searborn are used to interpret the data. 
 - **Modeling Techniques:** Random Forest models are employed to predict store sales.
 - **Evaluation Metric:** Model performance is evaluated using metrics like root mean square error (RMSE) and root mean square percentage error (RMSPE).
+- **Feature Importances** Find what are the features that affects most. 
 
 ## Explore Further
 
